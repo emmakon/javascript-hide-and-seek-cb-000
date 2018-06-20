@@ -1,6 +1,5 @@
-function getFirstSelector(selector) {
-  const selector = getElementById(selector)
-  return selector
+function getFirstSelector(selector)
+getElementById(selector)
 }
 
 function nestedTarget() {
